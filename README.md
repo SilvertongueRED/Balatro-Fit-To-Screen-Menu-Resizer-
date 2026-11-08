@@ -2,6 +2,8 @@
 
 A small Balatro mod that stops tall mod menus from being cut off at the top and bottom of your screen.
 
+Also on [Nexus Mods](https://www.nexusmods.com/balatro/mods/1001).
+
 ## The problem
 
 <img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/65c2248d-52ca-4ff6-a42d-7808031b1bb3" />
@@ -25,6 +27,7 @@ This happens even in 4K, Borderless or Fullscreen, at the suggested resolution, 
 
 1. Install [Lovely](https://github.com/ethangreen-dev/lovely-injector) and [Steamodded](https://github.com/Steamodded/smods) if you have not already.
 2. Download `FitToScreen-vX.Y.Z.zip` from the [Releases](../../releases) page.
+   You can also download it from [Nexus Mods](https://www.nexusmods.com/balatro/mods/1001).
 3. Unzip it so the folder ends up at `%AppData%\Balatro\Mods\FitToScreen`.
 4. Restart Balatro fully (close it, start it again from Steam).
 
@@ -65,3 +68,21 @@ Delete the `FitToScreen` folder from your Mods folder.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+<!-- other-mods:start -->
+## More from SilvertongueRED
+
+### See my other mods and forks
+
+- [Balatro-Mod-Search-and-Sort](https://github.com/SilvertongueRED/Balatro-Mod-Search-and-Sort) ([Nexus Mods](https://www.nexusmods.com/balatro/mods/984))
+- [Balatro-Mod-Updater](https://github.com/SilvertongueRED/Balatro-Mod-Updater)
+- [Balatro-SaveRewinder-Config-Fix](https://github.com/SilvertongueRED/Balatro-SaveRewinder-Config-Fix)
+- [Trance-Active-and-Updated](https://github.com/SilvertongueRED/Trance-Active-and-Updated)
+- [Balatro-Preview-Accuracy-Update](https://github.com/SilvertongueRED/Balatro-Preview-Accuracy-Update)
+- [BalatroMods-HoldForFinalHandScore-Update](https://github.com/SilvertongueRED/BalatroMods-HoldForFinalHandScore-Update)
+- [Main-Menu-Theme-Selector](https://github.com/SilvertongueRED/Main-Menu-Theme-Selector)
+- [Better Mouse and Gamepad (bmag)](https://github.com/SilvertongueRED/bmag)
+- [Balatro-Music-Selector-Fixes-and-Features](https://github.com/SilvertongueRED/Balatro-Music-Selector-Fixes-and-Features)
+<!-- other-mods:end -->
