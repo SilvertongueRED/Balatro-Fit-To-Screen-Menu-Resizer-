@@ -65,6 +65,18 @@ Delete the `FitToScreen` folder from your Mods folder.
 - `lovely.toml` is a Lovely patch that replaces `self.ROOM_PADDING_H= 0.7` in `game.lua`. Balatro computes the window scale from the play area height plus this padding, so a bigger value shrinks everything evenly and gives tall UI room.
 - `main.lua` registers a Steamodded `custom_card_areas` callback. After a run's card areas are created, it queues an event that moves `G.aij_coconut_holder` up by `EXTRA_TILES_UP` tiles if it exists.
 
+## Changelog
+
+<details>
+<summary>Show the changelog</summary>
+
+### 1.1.0
+- First public release.
+- Raises the top and bottom padding from 0.7 to 1.3 tiles, so tall pause menus and sidebars from stacked mods fit on screen.
+- Keeps the All-In-Jest Load Bearing Coconut "1/1" counter off screen, done from this mod so All-In-Jest updates do not undo it.
+
+</details>
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
