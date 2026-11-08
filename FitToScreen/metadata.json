@@ -1,0 +1,12 @@
+{
+  "id": "fit_to_screen",
+  "name": "Fit To Screen",
+  "prefix": "fts",
+  "author": ["SilvertongueRED"],
+  "description": "Gives the game extra top and bottom room so tall mod menus fit, and hides the All-In-Jest coconut counter.",
+  "main_file": "main.lua",
+  "priority": 100000,
+  "version": "1.1.0",
+  "badge_colour": "5e7297",
+  "dependencies": []
+}
