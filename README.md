@@ -1,4 +1,4 @@
-# Fit To Screen
+# Fit to Screen (Menu Resizer)
 
 A small Balatro mod that stops tall mod menus from being cut off at the top and bottom of your screen.
 
