@@ -4,6 +4,8 @@ A small Balatro mod that stops tall mod menus from being cut off at the top and 
 
 ## The problem
 
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/65c2248d-52ca-4ff6-a42d-7808031b1bb3" />
+
 Balatro fits its play area to your window and leaves only a thin strip of room above and below it. Every mod that adds a button to the pause menu, or a row to the left sidebar, makes those columns taller. With enough mods installed they grow past the edge of the screen. You see:
 
 - The pause menu's **Settings** button and **Back** button with no border, touching or clipped by the screen edge.
@@ -13,6 +15,8 @@ Balatro fits its play area to your window and leaves only a thin strip of room a
 This happens even in 4K, Borderless or Fullscreen, at the suggested resolution, and with the CRT effect turned off. It is a layout limit, not a display setting.
 
 ## What this mod does
+
+<img width="3837" height="2157" alt="image" src="https://github.com/user-attachments/assets/7ea33e10-41d2-43d2-ba92-09dde39de414" />
 
 1. **Adds more top and bottom room.** The base game uses 0.7 tiles of padding above and below the play area. This mod changes it to 1.3, so the whole game scales down by about 9% and tall columns fit. You can change the number (see Configuration).
 2. **Hides the All-In-Jest coconut counter.** With the extra room, a stray "1/1" label can appear near the top right. It belongs to the hidden Load Bearing Coconut card area in All-In-Jest, which that mod parks above the screen on purpose. This mod pushes that area further up so the label stays off screen. It does this from its own code, so All-In-Jest updates do not undo it. If you do not use All-In-Jest, this part does nothing.
