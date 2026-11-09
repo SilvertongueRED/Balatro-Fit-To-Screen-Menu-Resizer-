@@ -2,8 +2,6 @@
 
 A small Balatro mod that stops tall mod menus from being cut off at the top and bottom of your screen.
 
-Also on [Nexus Mods](https://www.nexusmods.com/balatro/mods/1001).
-
 ## The problem
 
 <img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/65c2248d-52ca-4ff6-a42d-7808031b1bb3" />
